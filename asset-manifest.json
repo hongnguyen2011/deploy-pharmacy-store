@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deploy-pharmacy-store/static/css/main.83ef0452.css",
+    "main.js": "/deploy-pharmacy-store/static/js/main.820c444a.js",
+    "static/media/remixicon.svg?t=1590207869815": "/deploy-pharmacy-store/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/eco-logo.png": "/deploy-pharmacy-store/static/media/eco-logo.8534594267c2e8d97cbd.png",
+    "static/media/remixicon.eot?t=1590207869815": "/deploy-pharmacy-store/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/deploy-pharmacy-store/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/pharmacity2.png": "/deploy-pharmacy-store/static/media/pharmacity2.4f4114e00a906a0f3496.png",
+    "static/media/remixicon.woff?t=1590207869815": "/deploy-pharmacy-store/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/deploy-pharmacy-store/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/counter-timer-img.png": "/deploy-pharmacy-store/static/media/counter-timer-img.11ac8dfe1f6734c62d2f.png",
+    "static/media/page-image.jpeg": "/deploy-pharmacy-store/static/media/page-image.549d6968c968d92576fc.jpeg",
+    "index.html": "/deploy-pharmacy-store/index.html",
+    "main.83ef0452.css.map": "/deploy-pharmacy-store/static/css/main.83ef0452.css.map",
+    "main.820c444a.js.map": "/deploy-pharmacy-store/static/js/main.820c444a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83ef0452.css",
+    "static/js/main.820c444a.js"
+  ]
+}
