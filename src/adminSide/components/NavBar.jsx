@@ -39,8 +39,7 @@ const Navbar = ({ user, isSidebarOpen, setIsSidebarOpen }) => {
 
   const handleLogout = () => {
     localStorage.clear();
-    // window.location = "http://localhost:3000/";
-    window.location = "https://hongnguyen2011.github.io/deploy-pharmacy-store/";
+    window.location = "http://localhost:3000/";
   };
 
   return (
