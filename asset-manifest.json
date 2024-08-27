@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploy-pharmacy-store/static/css/main.83ef0452.css",
-    "main.js": "/deploy-pharmacy-store/static/js/main.820c444a.js",
+    "main.js": "/deploy-pharmacy-store/static/js/main.39fbf234.js",
     "static/media/remixicon.svg?t=1590207869815": "/deploy-pharmacy-store/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/eco-logo.png": "/deploy-pharmacy-store/static/media/eco-logo.8534594267c2e8d97cbd.png",
     "static/media/remixicon.eot?t=1590207869815": "/deploy-pharmacy-store/static/media/remixicon.5cb99e6cba5a4619063f.eot",
@@ -13,10 +13,10 @@
     "static/media/page-image.jpeg": "/deploy-pharmacy-store/static/media/page-image.549d6968c968d92576fc.jpeg",
     "index.html": "/deploy-pharmacy-store/index.html",
     "main.83ef0452.css.map": "/deploy-pharmacy-store/static/css/main.83ef0452.css.map",
-    "main.820c444a.js.map": "/deploy-pharmacy-store/static/js/main.820c444a.js.map"
+    "main.39fbf234.js.map": "/deploy-pharmacy-store/static/js/main.39fbf234.js.map"
   },
   "entrypoints": [
     "static/css/main.83ef0452.css",
-    "static/js/main.820c444a.js"
+    "static/js/main.39fbf234.js"
   ]
 }
